@@ -45,7 +45,3 @@ You **pass** if your correct answers are **≥** your wrong answers.
 <img width="1280" height="619" alt="ezgif-6404c94fa224ab94" src="https://github.com/user-attachments/assets/6ae99992-2741-445e-8dba-9615097f0d2a" />
 
 
-
-### Compile with g++
-```bash
-g++ -o MathQuiz main.cpp
