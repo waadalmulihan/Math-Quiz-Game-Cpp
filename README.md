@@ -2,7 +2,6 @@
 
 A console-based math quiz game written in C++ that tests arithmetic skills across multiple difficulty levels and operation types.
 
----
 
 ## 📋 Features
 
@@ -13,7 +12,6 @@ A console-based math quiz game written in C++ that tests arithmetic skills acros
 - **Final Score Summary** — Pass/Fail result with full breakdown at the end
 - **Replay Option** — Play again without restarting the program
 
----
 
 ## 🎮 How to Play
 
@@ -33,13 +31,15 @@ A console-based math quiz game written in C++ that tests arithmetic skills acros
 5. Answer each question as it appears
 6. View your final results and choose to play again
 
----
+
+
 
 ## 🏆 Pass / Fail Condition
 
 You **pass** if your correct answers are **≥** your wrong answers.
 
----
+
+
 
 ## 🖥️ Demo
 <img width="1280" height="619" alt="ezgif-6404c94fa224ab94" src="https://github.com/user-attachments/assets/6ae99992-2741-445e-8dba-9615097f0d2a" />
